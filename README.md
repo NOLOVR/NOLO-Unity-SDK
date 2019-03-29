@@ -2,7 +2,7 @@
 ## NOLO-Gear VR  
 * 此Unity SDK 结合Gear SDK 进行开发6Dof 移动VR游戏
 * 首先在移动平台安装Server 文件夹下的apk，再安装开发的游戏
-* NOLO-Gear VR 适配：三星手机，oc-go
+* NOLO-Gear VR 适配：三星手机，oc-go，小米一体机
 
 ## NOLO-SVR
 * 此Unity SDK 进行开发适配高通芯片系列一体机6Dof移动VR游戏
