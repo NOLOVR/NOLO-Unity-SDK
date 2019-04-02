@@ -15,7 +15,9 @@
 * NOLO-HuaWei 适配：华为旗舰手机，华为Mate 20系列，华为P20系列，华为Mate10系列，华为Mate RS 保时捷设计，荣耀Note10
 
 ## NOLO-Skyworth
-* https://github.com/skyworthvr/svr-unity-sdk
+* 此Unity SDK 结合[创维 SDK](https://github.com/skyworthvr/svr-unity-sdk) 进行开发6Dof 移动VR游戏
+* 首先在移动平台安装Server 文件夹下的apk，再安装开发的游戏
+* NOLO-Skyworth 适配：创维 VR 一体机 S8000,V901,S801
 
 ## 联系方式
 * 有任何开发问题或者建议请发邮件联系我们：developer@nolovr.com 
