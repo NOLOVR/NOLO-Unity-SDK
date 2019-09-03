@@ -1,6 +1,6 @@
 # NOLO Unity SDK
-## NOLO-Oculus  
-* 此Unity SDK 结合Oculus SDK 进行开发6Dof 移动VR游戏
+## NOLO-Normal  
+* 此Unity SDK 仅包含NOLO定位部分的功能，开发者可随意结合其他显示SDK进行移动VR游戏开发。例如：结合Oculus SDK 开发GearVR上的游戏。
 * 首先在移动平台安装Server 文件夹下的apk，再安装开发的游戏
 * NOLO-Gear VR 适配：三星手机，oc-go，小米一体机
 
