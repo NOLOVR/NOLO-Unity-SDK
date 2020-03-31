@@ -5,7 +5,7 @@
 * NOLO-Gear VR 适配：三星手机，oc-go，小米一体机
 
 ## NOLO-HuaWei
-* 此Unity SDK 进行开发适配华为VR2+华为手机的6dof移动VR游戏
+* 此Unity SDK 用于开发适配华为VR2+华为手机的6dof移动VR游戏
 * 首先在移动平台安装Server 文件夹下的apk，再安装开发的游戏
 * NOLO-HuaWei 适配：华为旗舰手机，华为Mate 20系列，华为P20系列，华为Mate10系列，华为Mate RS 保时捷设计，荣耀Note10
 
@@ -15,9 +15,14 @@
 * NOLO-Skyworth 适配：创维 VR 一体机 S8000,V901,S801
 
 ## NOLO-Mi
-* 此Unity SDK 进行开发小米VR一体机6Dof移动VR游戏
+* 此Unity SDK 用于开发小米VR一体机6Dof移动VR游戏
 * 首先在移动平台安装Server 文件夹下的apk，再安装开发的游戏
 * NOLO-MI 适配：小米VR一体机
+
+## NOLO-SDK
+* 此Unity SDK 用于开发安卓手机和部分一体机6Dof移动VR游戏
+* 首先在移动平台安装Server 文件夹下的apk，再安装开发的游戏
+* NOLO-SDK 适配：操作系统Android 7以上安卓手机，Pico G2，大朋P1 Pro，爱奇艺，Idealens K4，创维V901等一体机
 
 ## 联系方式
 * 有任何开发问题或者建议请发邮件联系我们：developer@nolovr.com 
